@@ -1,1 +1,4 @@
-# Projekt_PBI-
+# Projekt_PBI
+Tento projekt srovnává vesmírné lety (Rocket Missions) z pohledu jejich realizace (počet misí; použité rakety; společnosti, které tyto lety financovaly) a úspěšnosti (např. charakteristiky celkového počtu misí, podílu úspěšných a neúspěšných misí - s vyhodnocením tzv. "Success Rate") v jednotlivých dekádách od 60. let 20. století. Zároveň je snahou autora nabídnout obecné zamyšlení nad množstvím těles (vypouštěných již ve 2. polovině 50. let), která se na oběžnou dráhu v této souvislosti se stále větší dynamikou dostávají a napříč sledovaným obdobím významně převyšují celkové počty realizovaných vesmírných misí. V tomto kontextu se nabízí možnost provést hodnocení/porovnání i z regionálního pohledu, a to podle jednotlivých entit (vesmírné agentury nebo kontinenty).
+
+Projekt byl s ohledem na zdrojová data ze tří samostatných zdrojů zpracován v angličtině.
